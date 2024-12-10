@@ -64,6 +64,7 @@ Clip Maker is a simple tool that splits your MP4 videos into smaller clips, perf
 4. **Follow the instructions** on the screen:
    - Type the number of the video you want to split.
    - Type `cancel` if you change your mind.
+   - Type `reload` to refresh the video list.
    - Type `done` when you're finished selecting videos.
 
 5. **Check the output**:
